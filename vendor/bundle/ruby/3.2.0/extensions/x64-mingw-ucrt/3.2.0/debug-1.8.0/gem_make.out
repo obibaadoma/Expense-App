@@ -1,0 +1,20 @@
+current directory: C:/Users/Ghost Snipper/Desktop/MicroVerse_Module1/BackEnd/Expense-App/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/Ghost Snipper/Desktop/MicroVerse_Module1/BackEnd/Expense-App/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240113-13536-947efk sitelibdir\=./.gem.20240113-13536-947efk clean
+
+current directory: C:/Users/Ghost Snipper/Desktop/MicroVerse_Module1/BackEnd/Expense-App/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240113-13536-947efk sitelibdir\=./.gem.20240113-13536-947efk
+generating debug-x64-mingw-ucrt.def
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: C:/Users/Ghost Snipper/Desktop/MicroVerse_Module1/BackEnd/Expense-App/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240113-13536-947efk sitelibdir\=./.gem.20240113-13536-947efk install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20240113-13536-947efk/debug
+
+current directory: C:/Users/Ghost Snipper/Desktop/MicroVerse_Module1/BackEnd/Expense-App/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240113-13536-947efk sitelibdir\=./.gem.20240113-13536-947efk clean
