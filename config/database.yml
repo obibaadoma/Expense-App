@@ -16,6 +16,4 @@ test:
 
 production:
   <<: *default
-  database: Expense-Db_production
-  username: admin
-  password: admin
+  url: <%= ENV['DATABASE_URL'] %>
