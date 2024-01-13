@@ -62,7 +62,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Link to Live demo](https://www.loom.com/share/b6bc3659c096497d8033110ade38c3f6?sid=544571df-58df-4030-a0f0-b49960266c29)
-- [Quick Overview](https://www.loom.com/share/b6bc3659c096497d8033110ade38c3f6?sid=544571df-58df-4030-a0f0-b49960266c29)
+- [Quick Overview](https://obibaadoma.github.io/Expense-App/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
