@@ -14,7 +14,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
+  - [🚀 Live Demo ..](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -59,7 +59,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo <a name="live-demo"></a>..
 
 - [Link to Live demo](https://www.loom.com/share/b6bc3659c096497d8033110ade38c3f6?sid=544571df-58df-4030-a0f0-b49960266c29)
 - [Quick Overview](https://obibaadoma.github.io/Expense-App/)
